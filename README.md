@@ -1,5 +1,4 @@
-# Spring Boot Kafka Example - The Practical Developer
-
+# Spring Boot Kafka Example 
 ## Basic configuration
 
 This sample application shows how to use basic Spring Boot configuration to set up a producer to a topic with multiple partitions and a consumer group with three different consumers.
@@ -15,11 +14,3 @@ To illustrate the different configuration options, this application deserializes
 * As a JSON to Java object.
 * As a simple String (plain JSON).
 * As a byte array.
-
-## Docker compose
-
-This code includes a `docker-compose.yml` file so you can use Docker Compose to start up Kafka, no installation needed.
-
-## Did I help you?
-
-Give a star to this project and/or [buy me a coffee](https://buymeacoff.ee/ZyLJNUR) 😄
